@@ -15,4 +15,4 @@ My name is Fabian, currently learning some new stuff.
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabiann2205)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabiann2205&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
