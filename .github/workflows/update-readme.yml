@@ -12,6 +12,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
-      - uses: Fabiann2205/Fabiann2205@master
+      - uses: Fabiann2205/Fabiann2205@main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
