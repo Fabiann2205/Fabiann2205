@@ -16,3 +16,6 @@ My name is Fabian, currently learning some new stuff.
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabiann2205&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--START_SECTION:activity-->
+
