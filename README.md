@@ -14,8 +14,5 @@ My name is Fabian, currently learning some new stuff.
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fabiann2205&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--START_SECTION:activity-->
 
